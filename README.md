@@ -7,3 +7,9 @@ The requirements of the Docker images are:
 1. Print out "Full Cycle Rocks!!" on docker run;
 2. Publish the image on docker hub;
 3. The size of the image must be less than 2 Mb.
+
+Run the following command ro run the image
+
+```
+    docker run jppacheco/fullcycle
+```
